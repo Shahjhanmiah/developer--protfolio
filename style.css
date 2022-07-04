@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
+    background-color: chocolate;
 
 }
 h1{
@@ -57,10 +58,13 @@ h2{
     border-radius: 10px;
 }
 #Full-stack-developer{
-    border-left: 7px solid tomato;
+    border-left: 7px solid skyblue;
+    background-color: black;
+    color: white;
 }
 #Body-web-Developer{
     border-left: 7px solid blue;
+   background-color: slateblue;
 }
 footer p{
     text-align: center;
